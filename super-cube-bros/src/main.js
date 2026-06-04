@@ -1,6 +1,6 @@
-import './style.css'
+import 'style.css'
 import {getkeyspressed} from './keyscript.js'
-import * as THREE from 'three'
+import * as THREE from '../node_modules/three/build/three.module.js'
 
 //Setting up the scene/camera/renderer
 const scene = new THREE.Scene();
