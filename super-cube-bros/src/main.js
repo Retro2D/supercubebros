@@ -1,4 +1,4 @@
-import 'style.css';
+import './style.css';
 import {getkeyspressed} from './keyscript.js';
 import * as THREE from 'three';
 
