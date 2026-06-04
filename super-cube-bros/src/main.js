@@ -1,6 +1,6 @@
-import 'style.css'
-import {getkeyspressed} from './keyscript.js'
-import * as THREE from 'https://esm.sh/three@0.160.0'
+import 'style.css';
+import {getkeyspressed} from './keyscript.js';
+import * as THREE from 'three';
 
 //Setting up the scene/camera/renderer
 const scene = new THREE.Scene();
